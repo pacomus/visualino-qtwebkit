@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>../icons/arrow_right_alt1_24x24.png</file>
+        <file>../icons/check_alt_24x24.png</file>
+        <file>../icons/document_alt_stroke_18x24.png</file>
+        <file>../icons/download_18x24.png</file>
+        <file>../icons/upload_18x24.png</file>
+        <file>../icons/cog_24x24.png</file>
+        <file>../icons/magnifying_glass_24x24.png</file>
+        <file>../icons/chip-micro-24x24.png</file>
+        <file>../icons/usb-24x24.png</file>
+        <file>../icons/enter-16x16.png</file>
+        <file>../icons/bar-chart-24x24.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../icons/splashscreen.png</file>
+        <file>../icons/about-header.png</file>
+    </qresource>
+</RCC>
