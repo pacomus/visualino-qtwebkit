@@ -1,0 +1,11 @@
+Package: visualino
+Version: 0.7.3
+Architecture: amd64
+Maintainer: Víctor R. Ruiz <vrruiz@gmail.com>
+Installed-Size: 3313
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0~alpha1) | libqt5gui5-gles (>= 5.2.0~alpha1), libqt5serialport5 (>= 5.6.0), libqt5webkit5 (>= 5.6.0~rc), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 5), libqt5network5
+Section: electronics
+Homepage: http://www.visualino.net/
+Description: Desktop visual environment to program Arduino
+ Visualino embeds Bitbloq as a desktop application to
+ offer a visual GUI to program Arduino.
